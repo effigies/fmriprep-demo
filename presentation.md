@@ -11,7 +11,7 @@ class: center middle
 name: footer
 layout: true
 
-<div class="slide-slug">OHBM 2018</div>
+<div class="slide-slug">Neurohackademy 2019</div>
 ---
 
 .left-column[
@@ -61,9 +61,10 @@ $ singularity exec docker://poldracklab/fmriprep:latest \
   /data_dir /outputs_dir participant
 ```
 
-### [OpenNeuro.org](https://openneuro.org/)
+### [BrainLife.io](https://brainlife.io/)
 
-* OpenNeuro is a free, online platform for sharing and analyzing neuroimaging data
+* BrainLife is a free, online platform for analyzing neuroimaging data,
+  including many OpenNeuro datasets
 ]
 
 ---
